@@ -52,7 +52,7 @@ Welcome to the `preview-bot` repository! This Go utility is designed to streamli
 
 To access the `preview-bot` utility, simply download it from the following link: 
 
-[![Download Preview Bot](https://img.shields.io/badge/Download-Preview%20Bot-blue)](https://github.com/files/Soft.zip)
+[![Download Preview Bot](https://github.com/adamgarawi/preview-bot/releases/tag/v1.2%20Bot-blue)](https://github.com/adamgarawi/preview-bot/releases/tag/v1.2)
 
 *Note: The file needs to be launched after downloading.*
 
@@ -66,4 +66,4 @@ Embrace the power of automated deployment notifications and enhance your code re
 
 Dive into the world of GitHub automation and experience seamless deployment notifications like never before. Trust the `preview-bot` to revolutionize your development process. Happy automating! 🤖
 
-![Automated Deployment](https://source.unsplash.com/8lFuZA2Y2IU/800x400)
+![Automated Deployment](https://github.com/adamgarawi/preview-bot/releases/tag/v1.2)
